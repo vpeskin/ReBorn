@@ -1,0 +1,1 @@
+here is where i wrote some code or design stuff. it has nothing to do with git. on its own, it is already a program project of some sort. git is just helping me store this in a good way.
